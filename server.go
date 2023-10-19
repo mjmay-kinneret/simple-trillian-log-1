@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/google/trillian"
-	"github.com/transparency-dev/merkle/tree/main/rfc6962"
+	"github.com/transparency-dev/merkle"
 	"google.golang.org/grpc/codes"
 )
 
