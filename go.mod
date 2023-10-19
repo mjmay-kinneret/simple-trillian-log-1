@@ -1,4 +1,4 @@
-module github.com/DazWilkin/basic-personality
+module github.com/mjmay-kinneret/simple-trillian-log-1
 
 go 1.12
 
